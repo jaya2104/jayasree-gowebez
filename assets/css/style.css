@@ -1208,7 +1208,7 @@ body {
     display: flex;
 }
 
-.overall .icon {
+.icon {
     width: 70px;
     height: 70px;
     border-radius: 100%;
@@ -1218,7 +1218,7 @@ body {
 
 }
 
-.overall .icon i {
+.icon i {
     color: aliceblue;
     font-size: 2em;
     margin: 20px;
@@ -1675,6 +1675,7 @@ textarea::placeholder {
     .services {
         display: flex;
         flex-direction: row;
+        height: 100vh;
     }
 
     .ezclean {

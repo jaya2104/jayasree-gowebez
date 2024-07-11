@@ -1215,6 +1215,7 @@ body {
     background-color: #2c98f0;
     margin-top: -20px;
     margin-left: 80px;
+
 }
 
 .overall .icon i {
@@ -1669,14 +1670,6 @@ textarea::placeholder {
 .loc i {
     margin-right: 20px;
 }
-.copyright{
-    color: #696969;
-    display: flex;
-    flex-direction: column;
-    text-align: center;
-    font-size: medium;
-    padding: 1em;
-}
 
 @media (min-width:768px) {
     .services {
@@ -1688,11 +1681,8 @@ textarea::placeholder {
         width: 300px;
         margin-left: 50px;
     }
-    .copyright{
-        padding: 1em;
-        margin: 0 25%;
-    }
 }
+
 @media (min-width:1020px) {
     .ezclean {
         width: 320px;
@@ -1719,8 +1709,5 @@ textarea::placeholder {
 @media (min-width:1440px) {
     .ezclean {
         margin-left: 70px;
-    }
-    .copyright{
-        margin: 3% 20% 5% 43%;
     }
 }

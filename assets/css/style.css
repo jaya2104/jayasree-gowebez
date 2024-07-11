@@ -1675,7 +1675,6 @@ textarea::placeholder {
     .services {
         display: flex;
         flex-direction: row;
-        height: 100vh;
     }
 
     .ezclean {

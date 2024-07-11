@@ -11,6 +11,7 @@
     background-color: rgb(0, 0, 0, 0.3);
     background-blend-mode: multiply;
     background-size: cover;
+    background-attachment: fixed;
     background-position: center;
     padding-top: 1.5em;
     height: 100vh;
@@ -1333,6 +1334,7 @@ sup {
         display: flex;
         flex-direction: row;
         margin-top: 20px;
+        margin-left: 1%;
     }
     .container7 {
         height: 650px;
